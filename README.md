@@ -1,4 +1,4 @@
-Serial Communication with laptop from Atmega 328 based controller running with a Arduino bootloader
+Serial Communication with laptop and Atmega 328 based controller running with a Arduino bootloader
 
 
 This program is used to demonstrate how proximity sensing can be used inorder to zoom in or zoom out image with respect
